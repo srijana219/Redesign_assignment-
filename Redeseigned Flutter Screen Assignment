@@ -1,0 +1,7 @@
+ PR Description
+- Implemented redesigned screen from provided Figma
+- Preserved Boost component and refactored layout
+- Added responsive UI (mobile + web)
+- Included Header, ContentCard, and ActionRow widgets
+- Added image assets and updated pubspec.yaml
+
